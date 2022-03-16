@@ -1,6 +1,6 @@
 package javaTest;
 
-public class Test{
+public class FirstJava{
 
 	public static void main(String[] args) {
 
@@ -87,27 +87,7 @@ public class Test{
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	public static void sort2(int[] a,int low,int high){
-		
-		
-		
-		
-		
-		
-		
 
-    }
-	
-	
 	
 	
 	
