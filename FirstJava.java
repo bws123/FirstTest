@@ -74,22 +74,4 @@ public class FirstJava{
 		if(end<high) sort(a,end+1,high);//右边序列。从关键值索引+1 到最后一个
     }
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
 }
